@@ -1,4 +1,4 @@
-# mini-redis
+# my-redis
 
 A small Redis for learning Rust Tokio library.
 
